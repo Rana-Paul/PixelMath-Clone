@@ -1,0 +1,103 @@
+.box{
+
+    height: 320px;
+    margin: 15px;
+    margin-top: 5px;
+
+}
+.stl:hover{
+    cursor: pointer;
+    border-bottom: 2px solid blue;
+    color: blue!important;
+       
+}
+.navimg img:hover{
+    cursor: pointer;
+    border-bottom: 2px solid blue;
+}
+
+.f-input{
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    padding-left: 4%;
+    font-size: 14px;
+    border: 1px solid #83b344;
+    border-radius: 6px;
+    outline: none;
+    color: #000!important;
+}
+.container select{
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+    border: 1px solid #83b344;
+    border-radius: 6px;
+    padding-left: 4%;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: transparent;
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: 5px;
+    margin-right: 2rem;
+}
+.pli-check{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 45px;
+}
+.pli-check p{
+    font-size: 12px;
+    color: #707070;
+    padding-left: 12px;
+    padding-right: 10%;
+}
+.pli-check p a{
+    color: blue;
+}
+.con-form button{
+    color: white!important;
+}
+.sub-text-col{
+    color: #707070;
+}
+.con-logo{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+.download{
+    display: flex;
+    height: 60px;
+    justify-content: space-around;
+    align-items: center;
+}
+.dw-icon:hover{
+    visibility: hidden;
+}
+
+.text-o-img-up { 
+	font-size: 1.8em;
+    font-weight:bold;
+    margin-top: -250px;
+}
+.text-o-img-dow { 
+    font-weight:bolder;
+    margin-top: 190px;
+}
+.modal-header{
+    background-color: #F7941E;
+    color: white!important;
+}
+.modal-body{
+    background-color: white;
+}
+
+  
+
