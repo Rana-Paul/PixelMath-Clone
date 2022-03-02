@@ -98,6 +98,9 @@
 .modal-body{
     background-color: white;
 }
-
+.container table{
+    border: 1px solid black;
+    background-color: #F7941E;
+}
   
 
